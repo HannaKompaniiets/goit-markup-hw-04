@@ -285,21 +285,6 @@ img {
     border-radius: 0px 0px 4px 4px;
 }
 
-/* .card:hover > .references > img {
-    visibility: hidden;
-}
-
- .card:hover{
-    width: 360px;
-    height: 300px;
-    background-color: #4D5AE5;
-    padding: 40px 32px;
- } 
-
-.card-img:hover {
-    display:none
-} */
-
 
 .card-description {
     padding: 32px 16px 36px 16px;
@@ -557,32 +542,3 @@ margin-right: 120px;
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08);
 }
 
-/* .hover-img:hover{
-    width: 360px;
-    height: 300px;
-    background-color: #4D5AE5;
-    padding: 40px 32px;
-
-}
-.hover-text {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    border: 0;
-    padding: 0;
-    white-space: nowrap;
-    clip-path: inset(100%);
-    clip: rect(0 0 0 0);
-     overflow: hidden;
-    
-}
-
-.hover-text:hover {
-font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    color: #F4F4FD;
-} */
